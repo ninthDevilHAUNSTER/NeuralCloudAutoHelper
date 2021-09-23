@@ -41,3 +41,7 @@
 ### TODO
 
 招募开发者。
+
+### 交流群
+
+欢迎加入 Neural Cloud Auto Helper交流群  QQ群号： 714774915
